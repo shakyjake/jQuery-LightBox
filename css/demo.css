@@ -72,6 +72,21 @@ code:hover {
 	color: #FFF;
 }
 
+a {
+	color: #F09;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #ff33ad;
+	text-decoration: none;
+}
+
+a:active {
+	color: #cc007a;
+	text-decoration: none;
+}
+
 .example {
 	padding: 0.9em 0;
 }
